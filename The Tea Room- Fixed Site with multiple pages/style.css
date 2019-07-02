@@ -1,0 +1,177 @@
+/*=================LAYOUT SECTION===============*/
+
+body {
+	margin: 0px;
+	font-size: 14px;
+	font-family: Verdona, Georgia, Arial, serif;
+}
+
+#container {
+	width: 968px;
+	margin: 0px auto;
+}
+
+/*==================NAVBAR SECTION=================*/
+
+/*=================HEADING SECTION================*/
+
+.heading {
+	width: 862px;
+	float: right;
+	background-color: red;
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+	border-right: 2px solid black;
+}
+
+/*==================MAIN SECTION===================*/
+
+.main {
+	width: 862px;
+	float: right;
+	background-color: grey;
+	height: 1000px;
+	border-right: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+.image3 {
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	clear: left;
+}
+
+.image4 {
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	clear: left;
+}
+
+.image5 {
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	clear: left;
+}
+
+.image6 {
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	clear: left;
+}
+
+.image7 {
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	clear: left;
+}
+
+.image8 {
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	clear: left;
+}
+
+.image9 {
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	clear: left;
+}
+
+.image10 {
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	clear: left;
+}
+
+
+/*==================SIDEBAR SECTION================*/
+
+.sideleft {
+	background-color: blue;
+	width: 100px;
+	height: 1110px;
+	margin: 0px;
+	float: left;
+	clear: both;
+	border-left: 2px solid black;
+	border-top: 2px solid black;
+	border-right: 2px solid black;
+	border-bottom: 2px solid black;
+	}
+
+.image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	padding-top: 10px;
+	border-radius: 10px;
+}
+
+.image1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	width: 90%;
+}
+
+/*=================BUTTON SECTION==================*/
+
+.navbar ul {
+	padding: 5px;
+}
+
+.navbar ul li {
+	list-style-type: none;
+	padding: 10px;
+	text-align: center;
+}
+
+.navbar ul li a {
+	color: white;
+	text-decoration: none;
+}
+
+.navbar ul li a:hover {
+	color: red;
+}
+
+/*=================HEADINGS SECTION================*/
+
+h1 {
+	padding: 10px;
+	font-size: 120%;
+}
+
+h2 {
+	padding: 10px;
+	font-size: 150%;
+}
+
+h3 {
+	font-size: 200%;
+	padding: 10px;
+	text-shadow: 2px 2px 1px yellow;
+}
+
+p {
+	padding: 10px;
+	font-size: 120%;
+}
